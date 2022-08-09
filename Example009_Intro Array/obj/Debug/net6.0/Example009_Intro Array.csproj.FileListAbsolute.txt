@@ -1,0 +1,15 @@
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\bin\Debug\net6.0\Example009_Intro Array.exe
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\bin\Debug\net6.0\Example009_Intro Array.deps.json
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\bin\Debug\net6.0\Example009_Intro Array.runtimeconfig.json
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\bin\Debug\net6.0\Example009_Intro Array.dll
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\bin\Debug\net6.0\Example009_Intro Array.pdb
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\Example009_Intro Array.csproj.AssemblyReference.cache
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\Example009_Intro Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\Example009_Intro Array.AssemblyInfoInputs.cache
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\Example009_Intro Array.AssemblyInfo.cs
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\Example009_Intro Array.csproj.CoreCompileInputs.cache
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\Example009_Intro Array.dll
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\refint\Example009_Intro Array.dll
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\Example009_Intro Array.pdb
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\Example009_Intro Array.genruntimeconfig.cache
+C:\Users\Удалённый оператор 1\Desktop\Hello code\HelloCode\Example009_Intro Array\obj\Debug\net6.0\ref\Example009_Intro Array.dll
