@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Удалённый оператор 1\\Desktop\\HelloCode\\Example010_MethodArray\\Example010_MethodArray.csproj",
-      "projectName": "Example010_MethodArray",
-      "projectPath": "C:\\Users\\Удалённый оператор 1\\Desktop\\HelloCode\\Example010_MethodArray\\Example010_MethodArray.csproj",
+      "projectUniqueName": "C:\\Users\\Удалённый оператор 1\\Desktop\\HelloCode\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
+      "projectName": "Example011_ArrayLibrary",
+      "projectPath": "C:\\Users\\Удалённый оператор 1\\Desktop\\HelloCode\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
       "packagesPath": "C:\\Users\\Удалённый оператор 1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Удалённый оператор 1\\Desktop\\HelloCode\\Example010_MethodArray\\obj\\",
+      "outputPath": "C:\\Users\\Удалённый оператор 1\\Desktop\\HelloCode\\Example011_ArrayLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Удалённый оператор 1\\AppData\\Roaming\\NuGet\\NuGet.Config"
